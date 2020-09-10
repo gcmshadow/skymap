@@ -1,6 +1,1 @@
-setupRequired(sphgeom)
-setupRequired(geom)
-setupRequired(afw)
-setupOptional(daf_butler)
-
 envPrepend(PYTHONPATH, ${PRODUCT_DIR}/python)
